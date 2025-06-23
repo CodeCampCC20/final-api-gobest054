@@ -1,5 +1,5 @@
 import prisma from "../config/prisma.js";
-import { createError } from "../utils/createErorr.js";
+import { createError } from "../utils/createError.js";
 import bcrypt from "bcryptjs"
 import jwt from "jsonwebtoken"
 
